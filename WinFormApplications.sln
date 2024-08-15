@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{D1669424-2B86-4796-A965-B89B5C2146D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimer", "DatesAndTimer\DatesAndTimer.csproj", "{3056AD9F-28D9-4D89-8A0A-0BAE8374193A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D1669424-2B86-4796-A965-B89B5C2146D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1669424-2B86-4796-A965-B89B5C2146D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1669424-2B86-4796-A965-B89B5C2146D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3056AD9F-28D9-4D89-8A0A-0BAE8374193A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3056AD9F-28D9-4D89-8A0A-0BAE8374193A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3056AD9F-28D9-4D89-8A0A-0BAE8374193A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3056AD9F-28D9-4D89-8A0A-0BAE8374193A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
